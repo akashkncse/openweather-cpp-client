@@ -1,5 +1,5 @@
 # OpenWeather C++ Client
-A simple C++ client for fetching weather data from OpenWeatherMap API
+A C++ client for fetching weather data from OpenWeatherMap API
 
 ---
 
